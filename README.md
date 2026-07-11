@@ -6,7 +6,7 @@ This project was completed as part of the **freeCodeCamp Relational Database Cer
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - PostgreSQL
 - Bash
